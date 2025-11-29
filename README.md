@@ -1,62 +1,76 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=200&section=header&text=Ayush%20Supakar&fontSize=80&animation=fadeIn&fontAlign=50" width="100%"/>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=B.Tech+CSE+(AI)+%40+Bennett+University;Software+Dev+Intern+%40+Dalmia+Bharat;Building+Scalable+AI+Solutions;Full+Stack+Developer" alt="Typing SVG" />
-  </a>
+
+# Hi there, I'm Ayush Supakar! 👋
+
+**Software Developer | AI & ML Enthusiast | Creative Designer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Supakar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/INSERT_YOUR_LINKEDIN_URL_HERE)
+[![Email](https://img.shields.io/badge/Email-ayushsupakar@gmail.com-c14438?style=for-the-badge&logo=gmail)](mailto:ayushsupakar@gmail.com)
+
 </div>
 
-<div align="center">
-  <a href="mailto:ayushsupakar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/ayush-supakar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+---
 
-<br/>
+### 👨‍💻 About Me
+
+I am a **Computer Science & Engineering (AI)** undergraduate at **Bennett University**. I bridge the gap between complex Artificial Intelligence and user-friendly software solutions. Currently, I am focused on integrating **Large Language Models (LLMs)** into enterprise applications and creating intuitive data visualizations.
+
+* 🔭 I’m currently working as a **Software Development Intern** at **Dalmia Bharat Group**.
+* 🎨 I also work on Frontend Design & Marketing at **Raahi**.
+* 🌱 I have leadership experience as the Co-Head of Multimedia & Design at the **Alan Turing Club**.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Languages & Core**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Artificial Intelligence & Data**
+<br>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+
+**Web Development & Design**
+<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 🚀 Featured Experience
+
+**Software Development Intern | Dalmia Bharat Group** *(06/2025 - Present)*
+* Developed AI-powered apps using **LangChain** and **OpenAI API** for automated data extraction and analysis.
+* Built interactive BI dashboards using **Power BI** and managed data pipelines with **MySQL** and **Google BigQuery**.
+* Revamped the NFA approvals website using **React** and **Python**, improving workflow speed and reliability.
+
+**Frontend Design Intern | Raahi** *(06/2025 - Present)*
+* Designing UI/UX elements using **Figma** for a student-driven carpooling platform.
+
+---
+
+### 💡 Key Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Enterprise AI Data Analytics Dashboard** | An innovative platform for uploading CSV/JSON datasets. Features an **AI assistant (LLM)** for natural language queries and executive reporting. | Python, LLMs, Time Series Analysis |
+| **X-Ray Report Generation System** | Automated medical report generation system. Combines **ResNet-50 CNN** for image extraction and **T5 Transformer** for report writing. | Python, NLP, Deep Learning, ResNet-50 |
+
+---
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3>👨‍💻 What I'm Up To</h3>
-        <ul style="list-style-type: none;">
-          [cite_start]<li>🔭 <b>Internship:</b> Automating enterprise workflows using <b>LLMs & LangChain</b> at Dalmia Bharat Group[cite: 7, 10].</li>
-          [cite_start]<li>💡 <b>Innovation:</b> Built an <b>Enterprise AI Dashboard</b> for predictive modeling[cite: 30, 31].</li>
-          [cite_start]<li>💊 <b>HealthTech:</b> Created an <b>Automated X-Ray Report System</b> using ResNet-50 & Transformers[cite: 33, 35].</li>
-          [cite_start]<li>🎓 <b>Learning:</b> Deep diving into <b>Computer Vision</b> & <b>System Design</b>[cite: 35].</li>
-        </ul>
-      </td>
-      <td valign="top" width="50%">
-        <h3>🚀 My Core Stack</h3>
-        <div align="center">
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,react,js,html,css,mysql,gcp,figma,git&perline=4" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">📊 GitHub Analytics</h3>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ayushsup&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff&icon_color=00c3ff" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsup&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff" />
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsup&theme=radical&hide_border=true&background=0d1117&ring=00c3ff&fire=00c3ff&currStreakNum=white" alt="streak graph" />
-</div>
-
-<h3 align="center">🐍 Contributions</h3>
-<div align="center">
-  <img src="https://github.com/ayushsup/ayushsup/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" height="150" alt="Ayush's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical" height="150" alt="Ayush's Top Langs" />
 </div>
