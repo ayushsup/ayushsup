@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Software+Developer;AI+%26+ML+Enthusiast;LLM+%26+RAG+Implementer;Creative+Designer" alt="Typing SVG" /></a>
 
 <p align="center">
-  <a href="https://linkedin.com/in/INSERT_YOUR_LINKEDIN_URL_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/ayush-supakar-a0733a322" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:ayushsupakar@gmail.com">
@@ -19,7 +19,6 @@
 
 ### ⚡ About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/dummy-gif-placeholder-replace-if-you-want-robot/giphy.gif" alt="Coding GIF" /> 
 I am a **Computer Science & Engineering (AI)** undergraduate at **Bennett University**, bridging the gap between complex Artificial Intelligence and user-friendly software. 
 
 * 🔭 I’m currently working on **Enterprise RAG Systems** and **Agentic Workflows**.
@@ -92,10 +91,10 @@ I am a **Computer Science & Engineering (AI)** undergraduate at **Bennett Univer
 ### 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsup&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsup&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
