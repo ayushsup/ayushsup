@@ -15,10 +15,9 @@
 
 I am a **Computer Science & Engineering (AI)** undergraduate at **Bennett University**. I bridge the gap between complex Artificial Intelligence and user-friendly software solutions. Currently, I am focused on integrating **Large Language Models (LLMs)** into enterprise applications and creating intuitive data visualizations.
 
-* 🔭 I’m currently working as a **Software Development Intern** at **Dalmia Bharat Group**.
-* 🎨 I also work on Frontend Design & Marketing at **Raahi**.
-* 🌱 I have leadership experience as the Co-Head of Multimedia & Design at the **Alan Turing Club**.
-
+* 🔭 I have previously worked as a **Software Development Intern** at **Dalmia Bharat Group**.
+* 🎨 I have also worked on Frontend Design & Marketing at **Raahi**.
+* 💹 I have experience in marketing working for **Dogowala**.
 ---
 
 ### 🛠️ Tech Stack & Skills
