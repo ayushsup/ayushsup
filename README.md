@@ -1,101 +1,62 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ayush%20Supakar&fontSize=90" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=200&section=header&text=Ayush%20Supakar&fontSize=80&animation=fadeIn&fontAlign=50" width="100%"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=B.Tech+CSE+(AI)+%40+Bennett+University;Software+Dev+Intern+%40+Dalmia+Bharat;Building+Scalable+AI+Solutions;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
 </div>
-
-
-
-<h1 align="center">Hi there, I'm Ayush! 👋</h1>
-
-
-
-<p align="center">
-
-  <b>B.Tech CSE (AI) Student at Bennett University</b><br/>
-
-  Building scalable AI solutions and Full Stack applications.
-
-</p>
-
-
-
----
-
-
-### 🛠 Tech Stack
-
-
-
-<p align="left">
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-
-</p>
-
-
-
-<p align="left">
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-
-</p>
-
-
-
-<p align="left">
-
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
-  <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
-
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
-</p>
-
-
-
----
-
-### 📊 GitHub Analytics
-
-
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180" alt="streak graph"  />
-
+  <a href="mailto:ayushsupakar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
-
+<br/>
 
 <div align="center">
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
-
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>👨‍💻 What I'm Up To</h3>
+        <ul style="list-style-type: none;">
+          <li>🔭 <b>Internship:</b> Automating enterprise workflows using <b>LLMs & LangChain</b> at Dalmia Bharat Group[cite: 7, 10].</li>
+          <li>💡 <b>Innovation:</b> Built an <b>Enterprise AI Dashboard</b> for predictive modeling[cite: 30, 31].</li>
+          <li>💊 <b>HealthTech:</b> Created an <b>Automated X-Ray Report System</b> using ResNet-50 & Transformers[cite: 33, 35].</li>
+          <li>🎓 <b>Learning:</b> Deep diving into <b>Computer Vision</b> & <b>System Design</b>.</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3>🚀 My Core Stack</h3>
+        <div align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,react,js,html,css,mysql,gcp,figma,git&perline=4" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<h3 align="center">📊 GitHub Analytics</h3>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff&icon_color=00c3ff" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff" />
+  </a>
+</div>
 
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=00c3ff&fire=00c3ff&currStreakNum=white" alt="streak graph" />
+</div>
 
+<h3 align="center">🐍 Contributions</h3>
+<div align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
