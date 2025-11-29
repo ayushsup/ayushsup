@@ -137,10 +137,10 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsup&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ayushsup&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Ayush's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsup&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsup&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Ayush's Top Languages" />
   </a>
 </div>
 
