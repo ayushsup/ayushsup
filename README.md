@@ -23,7 +23,7 @@
 I am a **Computer Science & Engineering (AI)** undergraduate at **Bennett University**, bridging the gap between complex Artificial Intelligence and user-friendly software. 
 
 * 🔭 I’m currently working on **Enterprise RAG Systems** and **Agentic Workflows**.
-* 💼 Ex-Intern at **Dalmia Bharat Group** & **Raahi**.
+* 💼 Ex-Intern at **Dalmia Bharat Group**, **Raahi** & **Dogowala**.
 * 🌱 Learning deeply about **Multi-Modal Models** and **Distributed Systems**.
 * 🎨 I love combining **Logic (Code)** with **Creativity (Design)**.
 
