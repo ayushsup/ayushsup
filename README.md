@@ -10,7 +10,7 @@
   <a href="mailto:ayushsupakar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/ayush-supakar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -23,10 +23,10 @@
       <td valign="top" width="50%">
         <h3>👨‍💻 What I'm Up To</h3>
         <ul style="list-style-type: none;">
-          <li>🔭 <b>Internship:</b> Automating enterprise workflows using <b>LLMs & LangChain</b> at Dalmia Bharat Group[cite: 7, 10].</li>
-          <li>💡 <b>Innovation:</b> Built an <b>Enterprise AI Dashboard</b> for predictive modeling[cite: 30, 31].</li>
-          <li>💊 <b>HealthTech:</b> Created an <b>Automated X-Ray Report System</b> using ResNet-50 & Transformers[cite: 33, 35].</li>
-          <li>🎓 <b>Learning:</b> Deep diving into <b>Computer Vision</b> & <b>System Design</b>.</li>
+          [cite_start]<li>🔭 <b>Internship:</b> Automating enterprise workflows using <b>LLMs & LangChain</b> at Dalmia Bharat Group[cite: 7, 10].</li>
+          [cite_start]<li>💡 <b>Innovation:</b> Built an <b>Enterprise AI Dashboard</b> for predictive modeling[cite: 30, 31].</li>
+          [cite_start]<li>💊 <b>HealthTech:</b> Created an <b>Automated X-Ray Report System</b> using ResNet-50 & Transformers[cite: 33, 35].</li>
+          [cite_start]<li>🎓 <b>Learning:</b> Deep diving into <b>Computer Vision</b> & <b>System Design</b>[cite: 35].</li>
         </ul>
       </td>
       <td valign="top" width="50%">
@@ -44,19 +44,19 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff&icon_color=00c3ff" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ayushsup&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff&icon_color=00c3ff" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsup&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff" />
   </a>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=00c3ff&fire=00c3ff&currStreakNum=white" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsup&theme=radical&hide_border=true&background=0d1117&ring=00c3ff&fire=00c3ff&currStreakNum=white" alt="streak graph" />
 </div>
 
 <h3 align="center">🐍 Contributions</h3>
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/ayushsup/ayushsup/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
