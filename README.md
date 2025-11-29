@@ -64,8 +64,8 @@ I am a **Computer Science & Engineering (AI)** undergraduate at **Bennett Univer
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **Enterprise Data Intelligence Platform (EDIP)** | A conversational BI solution utilizing **Google Gemini 1.5 Flash** and **LangChain Agents** to unify SQL, CSV, and Document analysis. Features **RAG** for unstructured data, automated statistical driver analysis, and persistent dashboards. | Python, LangChain, Google Gemini, PostgreSQL, ChromaDB, Plotly |
 | **Few-Shot Satellite Image Segmentation (MVMAE)** | Co-authored a framework utilizing **Multi-View Masked Autoencoders** and **VICReg** for robust feature learning. Implemented a **ViT-based U-Net** to segment satellite imagery (ISPRS Potsdam) with limited labeled data. | PyTorch, ViT, MAE, U-Net, Albumentations |
-| **Enterprise AI Data Analytics Dashboard** | An innovative platform for uploading CSV/JSON datasets. Features an **AI assistant (LLM)** for natural language queries and executive reporting. | Python, LLMs, Time Series Analysis |
 
 ---
 
