@@ -64,8 +64,8 @@ I am a **Computer Science & Engineering (AI)** undergraduate at **Bennett Univer
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **Few-Shot Satellite Image Segmentation (MVMAE)** | Co-authored a framework utilizing **Multi-View Masked Autoencoders** and **VICReg** for robust feature learning. Implemented a **ViT-based U-Net** to segment satellite imagery (ISPRS Potsdam) with limited labeled data. | PyTorch, ViT, MAE, U-Net, Albumentations |
 | **Enterprise AI Data Analytics Dashboard** | An innovative platform for uploading CSV/JSON datasets. Features an **AI assistant (LLM)** for natural language queries and executive reporting. | Python, LLMs, Time Series Analysis |
-| **X-Ray Report Generation System** | Automated medical report generation system. Combines **ResNet-50 CNN** for image extraction and **T5 Transformer** for report writing. | Python, NLP, Deep Learning, ResNet-50 |
 
 ---
 
